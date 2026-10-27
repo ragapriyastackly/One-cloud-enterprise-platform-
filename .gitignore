@@ -1,3 +1,6 @@
-'n.dart_tool/'nbuild/'n.idea/
-n.dart_tool/'nbuild/'n.idea/'n*.iml
-,'nbuild/
+build/
+.dart_tool/
+.idea/
+*.iml
+.gradle/
+local.properties
